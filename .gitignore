@@ -50,3 +50,4 @@ out/
 
 temp.csv
 temp-test.csv
+/src/org/.metadata/
